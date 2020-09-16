@@ -5,7 +5,7 @@
 ## Contact info:
  [**e-mail: *2329494@gmail.com***](mailto:2329494j@gmail.com)
 
-[**tel *+375 29 232 94 94***](tel:+375292329494)
+[**tel *+375 XX XX XX XX***](tel:+375XXXXXXXXX)
 
 ***
 
