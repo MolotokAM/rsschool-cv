@@ -16,7 +16,7 @@ I'm interested in becoming a front-end developer. I'm reliable and self-motivate
 ***
 
 ## My skills:
-* **Jurisprudence**     *intermediate*
+* **Jurisprudence**
 * **HTML**  *basic*
 * **CSS**   *basic*
 * **JS**    *basic* 
